@@ -8,10 +8,6 @@
 
 <h4 align="center">A Duplicate version of Whatsapp Web app built on top of <a href="http://reactjs.org" target="_blank">React</a>.</h4>
 
-<div align="center">
-<img src="https://i.ibb.co/nMr0gnF/ezgif-com-video-to-gif-2.gif" />
-</div>
-
 
 ## How To Use
 
@@ -22,7 +18,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 $ git clone https://github.com/saranrajshri/Whatsapp-Clone-MERN.git
 
 # Go into the repository
-$ cd Whatsapp-Clone-MERN
+$ cd WhatsNew
 
 # Install dependencies
 $ cd client
